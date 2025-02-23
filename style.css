@@ -53,7 +53,9 @@ input{
     width: 120px;
     height: 40px;
     border-radius: 15px;
-
-    
+ }
+ a{
+    text-decoration: none;
+    list-style: none;
  }
  
